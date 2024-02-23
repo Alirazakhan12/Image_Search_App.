@@ -71,7 +71,8 @@ form {
   text-decoration: none;
   font-size: 16px;
   text-transform: uppercase;
-  margin: 8px;
+  padding: 8px;
+  font-family: Arial, Helvetica, sans-serif;
 }
 
 #show_more {
