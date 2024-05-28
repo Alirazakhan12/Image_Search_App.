@@ -123,3 +123,12 @@ form {
     width: 40%;
   }
 }
+
+
+#footer-portfo {
+  margin-top: 10%;
+  font-family: var(--body-fonts);
+}
+#footer {
+  background-color: #0e3360;
+}
